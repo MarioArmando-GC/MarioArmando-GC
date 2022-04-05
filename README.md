@@ -1,5 +1,5 @@
 ### 👋Hola Bienvenido al Mundo de la Programacion🙌
-## 💻Programar es Divertido😀[![gatito1-1.gif](https://i.postimg.cc/cHRqj637/gatito1-1.gif)](https://postimg.cc/dkVSZs4D)
+## 💻Programar es Divertido😀
 [ ! [Captura-de-pantalla-149.png] (https://i.postimg.cc/fy99GsLc/Captura-de-pantalla-149.png) ] (https://postimg.cc/Cnw58Wb5)
 
 <!--
