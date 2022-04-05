@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]("C:\Users\secun\OneDrive\Imágenes\Screenshots\Captura de pantalla (149).png")
+[![Captura-de-pantalla-149.png](https://i.postimg.cc/kXxvhQL2/Captura-de-pantalla-149.png)](https://postimg.cc/w7jN1mqz)
 
 <!--
 **MarioArmando-GC/MarioArmando-GC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
