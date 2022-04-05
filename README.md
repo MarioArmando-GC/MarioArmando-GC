@@ -1,5 +1,5 @@
 ### 👋Hola Bienvenido al Mundo de la Programacion🙌
-## 💻Programar es Divertido😀
+## 💻Programar es Divertido <a href='https://postimg.cc/HVcVmb0P' target='_blank'><img src='https://i.postimg.cc/HVcVmb0P/gato-digitando.gif' border='0' alt='gato-digitando'/></a>
 [![Captura-de-pantalla-149.png](https://i.postimg.cc/fy99GsLc/Captura-de-pantalla-149.png)](https://postimg.cc/Cnw58Wb5)
 <!--
 **MarioArmando-GC/MarioArmando-GC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
