@@ -1,6 +1,6 @@
 ### 👋Hola Bienvenido al Mundo de la Programacion🙌
 ## 💻Programar es Divertido😀
-[ ! [Captura-de-pantalla-149.png] (https://i.postimg.cc/fy99GsLc/Captura-de-pantalla-149.png) ] (https://postimg.cc/Cnw58Wb5)
+[![Captura-de-pantalla-149.png](https://i.postimg.cc/fy99GsLc/Captura-de-pantalla-149.png)](https://postimg.cc/Cnw58Wb5)
 
 <!--
 **MarioArmando-GC/MarioArmando-GC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
