@@ -4,7 +4,7 @@
 ### Acerca de Mi😎
 📚Actualmente me encuentro estudiando la licenciatura en computacion en la Universidad Autonoma "Benito Juarez" de Oaxaca, me gusta mucho la programacion, el futbol⚽ y tambien me gusta mucho los videosguegos🎮e aprendido a programar en dos lenguajes diferentes los cuales son Dev C++ y JavaScript. Soy una persona que le gustan los desafios y trabajar en equipo👨‍👩‍👧‍👦
 ### Proyectos📕📃
-[Identificacion de variables]()
+[Identificacion de variables](https://github.com/MarioArmando-GC/Fundamentos/blob/main/indexMarioArmandoGonzalezCastellanos.html)
 [Calculadora basica y la formula cuadratica](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
 
 ### Tecnologías que utilizo👀
