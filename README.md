@@ -4,6 +4,7 @@
 ### Acerca de Mi😎
 📚Actualmente me encuentro estudiando la licenciatura en computacion en la Universidad Autonoma "Benito Juarez" de Oaxaca, me gusta mucho la programacion, el futbol⚽ y tambien me gusta mucho los videosguegos🎮e aprendido a programar en dos lenguajes diferentes los cuales son Dev C++ y JavaScript. Soy una persona que le gustan los desafios y trabajar en equipo👨‍👩‍👧‍👦
 ### Proyectos📕📃
+calculadora basica [fundamento ]()
 ### Tecnologías que utilizo👀
 [![C-Logo-Graphics-8547571-1.jpg](https://i.postimg.cc/vmcgyw8S/C-Logo-Graphics-8547571-1.jpg)](https://postimg.cc/yJCYh5ZF)
 [![java.png](https://i.postimg.cc/QCB0Kyq6/java.png)](https://postimg.cc/5QVwZpTv)
