@@ -4,9 +4,11 @@
 ### Acerca de Mi😎
 📚Actualmente me encuentro estudiando la licenciatura en computacion en la Universidad Autonoma "Benito Juarez" de Oaxaca, me gusta mucho la programacion, el futbol⚽ y tambien me gusta mucho los videosguegos🎮e aprendido a programar en dos lenguajes diferentes los cuales son Dev C++ y JavaScript. Soy una persona que le gustan los desafios y trabajar en equipo👨‍👩‍👧‍👦
 ### Proyectos📕📃
-[Identificacion de variables](https://github.com/MarioArmando-GC/Fundamentos/blob/main/indexMarioArmandoGonzalezCastellanos.html)
-[Calculadora basica y la formula cuadratica](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
+-[Identificacion de variables](https://github.com/MarioArmando-GC/Fundamentos/blob/main/indexMarioArmandoGonzalezCastellanos.html)
+este proyecto fue realizado con la intecion de aprender a identificar y utilizar las variables asi como el tipo de datos que se le pueden aplicar
 
+-[Calculadora basica y la formula cuadratica](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
+Este proyecto fue realizado en dos partes en la primera parte podemos encontar una calculadora basica con la que podemos sumar,restar,multiplicar y dividir. en la segunda parte se encuentra la formula cuadratica que nos ayudara a resolver las ecuaciones cuadraticas. 
 ### Tecnologías que utilizo👀
 [![C-Logo-Graphics-8547571-1.jpg](https://i.postimg.cc/vmcgyw8S/C-Logo-Graphics-8547571-1.jpg)](https://postimg.cc/yJCYh5ZF)
 [![java.png](https://i.postimg.cc/QCB0Kyq6/java.png)](https://postimg.cc/5QVwZpTv)
