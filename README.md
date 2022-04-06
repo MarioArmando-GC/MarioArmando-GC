@@ -4,7 +4,9 @@
 ### Acerca de Mi😎
 📚Actualmente me encuentro estudiando la licenciatura en computacion en la Universidad Autonoma "Benito Juarez" de Oaxaca, me gusta mucho la programacion, el futbol⚽ y tambien me gusta mucho los videosguegos🎮e aprendido a programar en dos lenguajes diferentes los cuales son Dev C++ y JavaScript. Soy una persona que le gustan los desafios y trabajar en equipo👨‍👩‍👧‍👦
 ### Proyectos📕📃
-calculadora basica [fundamento ](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
+[Identificacion de variables]()
+[Calculadora basica y la formula cuadratica](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
+
 ### Tecnologías que utilizo👀
 [![C-Logo-Graphics-8547571-1.jpg](https://i.postimg.cc/vmcgyw8S/C-Logo-Graphics-8547571-1.jpg)](https://postimg.cc/yJCYh5ZF)
 [![java.png](https://i.postimg.cc/QCB0Kyq6/java.png)](https://postimg.cc/5QVwZpTv)
@@ -12,7 +14,7 @@ calculadora basica [fundamento ](https://github.com/MarioArmando-GC/Fundamentos/
 [![st-small-507x507-pad-600x600-f8f8f8.jpg](https://i.postimg.cc/FsHJpS54/st-small-507x507-pad-600x600-f8f8f8.jpg)](https://postimg.cc/MXgTKvpP)
 [![ps.jpg](https://i.postimg.cc/8cMDBtpH/ps.jpg)](https://postimg.cc/Lg9rmkZY)
 [![logotipo-de-microsoft.jpg](https://i.postimg.cc/1zndq450/logotipo-de-microsoft-office-parte-la-l-nea-productos-kyiv-ucrania-enero-208435018.jpg)](https://postimg.cc/bGPLXynd)
-### Mis Redes sociales😉
+### Mis Redes sociale😉
 -Facebook: [facebook.com/mariogonzalez](https://www.facebook.com/)
 
 -Instagram: [instagram.com/mariogonzalez](https://www.instagram.com/mariogonzalez7818/?hl=es)
