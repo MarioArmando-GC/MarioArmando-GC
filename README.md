@@ -2,7 +2,7 @@
 ### 💻Programar es Divertido😀
 [![Captura-de-pantalla-149.png](https://i.postimg.cc/fy99GsLc/Captura-de-pantalla-149.png)](https://postimg.cc/Cnw58Wb5)
 ### Acerca de Mi😎
-📚Actualmente me encuentro estudiando la licenciatura en computacion en la Universidad Autonoma "Benito Juarez" de Oaxaca, me gusta mucho la programacion, el futbol⚽ a y tambien me gusta mucho los videosguegos🎮e aprendido a programar en dos lenguajes diferentes los cuales son Dev C++ y JavaScript. Soy una persona que le gustan los desafios y trabajar en equipo👨‍👩‍👧‍👦
+📚Actualmente me encuentro estudiando la licenciatura en computacion en la Universidad Autonoma "Benito Juarez" de Oaxaca, me gusta mucho la programacion, el futbol⚽ y tambien me gusta mucho los videosguegos🎮e aprendido a programar en dos lenguajes diferentes los cuales son Dev C++ y JavaScript. Soy una persona que le gustan los desafios y trabajar en equipo👨‍👩‍👧‍👦
 ### Proyectos📕📃
 ### Tecnologías que utilizo👀
 [![C-Logo-Graphics-8547571-1.jpg](https://i.postimg.cc/vmcgyw8S/C-Logo-Graphics-8547571-1.jpg)](https://postimg.cc/yJCYh5ZF)
