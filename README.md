@@ -9,6 +9,7 @@ este proyecto fue realizado con la intecion de aprender a identificar y utilizar
 
 -[Calculadora basica y la formula cuadratica](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
 Este proyecto fue realizado en dos partes en la primera parte podemos encontar una calculadora basica con la que podemos sumar,restar,multiplicar y dividir. en la segunda parte se encuentra la formula cuadratica que nos ayudara a resolver las ecuaciones cuadraticas. 
+- [Calculadora 2 ]
 ### Tecnologías que utilizo👀
 [![C-Logo-Graphics-8547571-1.jpg](https://i.postimg.cc/vmcgyw8S/C-Logo-Graphics-8547571-1.jpg)](https://postimg.cc/yJCYh5ZF)
 [![java.png](https://i.postimg.cc/QCB0Kyq6/java.png)](https://postimg.cc/5QVwZpTv)
