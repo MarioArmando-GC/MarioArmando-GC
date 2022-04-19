@@ -8,9 +8,9 @@
 este proyecto fue realizado con la intecion de aprender a identificar y utilizar las variables asi como el tipo de datos que se le pueden aplicar
 
 -[Calculadora basica y la formula cuadratica](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica2MarioArmandoGonzalezCastellanos.html)
-Este proyecto fue realizado en dos partes en la primera parte podemos encontar una calculadora basica con la que podemos sumar,restar,multiplicar y dividir. en la segunda parte se encuentra la formula cuadratica que nos ayudara a resolver las ecuaciones cuadraticas. 
+Este proyecto fue realizado en dos partes en la primera parte podemos encontar una calculadora basica con la que podemos sumar,restar,multiplicar y dividir. en la segunda parte se encuentra la formula cuadratica que nos ayudara a resolver las ecuaciones cuadraticas.
 
-[Calculadora]()Este proyecto a diferencia del anterior solo esta integrado la calculadora sin la formula de la cuadratica, con esta calculadora podras sumar, restar, multiplicar,dividir y sacar el porcentage.
+-[Calculadora](https://github.com/MarioArmando-GC/Fundamentos/blob/main/Practica3MarioArmandoGonzalezCastellanos.html)En este proyecto a diferencia del anterior solo esta integrado la calculador basica sin la formula de la cuadratica, con esta calculadora podras sumar, restar, multiplicar,dividir y sacar el porcentage.
 
 ### Tecnologías que utilizo👀
 [![C-Logo-Graphics-8547571-1.jpg](https://i.postimg.cc/vmcgyw8S/C-Logo-Graphics-8547571-1.jpg)](https://postimg.cc/yJCYh5ZF)
